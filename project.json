@@ -1,0 +1,11 @@
+{
+  "title": "SaaS Product Analytics",
+  "domain": "saas",
+  "primary_dimension": "plan",
+  "kpis": [
+    "Activation Rate",
+    "DAU/MAU",
+    "Net Revenue Retention",
+    "Feature Adoption"
+  ]
+}
